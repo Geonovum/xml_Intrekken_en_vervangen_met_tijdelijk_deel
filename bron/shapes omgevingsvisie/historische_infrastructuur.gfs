@@ -1,0 +1,16 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>historische_infrastructuur</Name>
+    <ElementPath>historische_infrastructuur</ElementPath>
+    <!--MULTIPOLYGON-->
+    <GeometryType>6</GeometryType>
+    <SRSName>EPSG:28992</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>1</FeatureCount>
+      <ExtentXMin>126368.23220</ExtentXMin>
+      <ExtentXMax>171447.30650</ExtentXMax>
+      <ExtentYMin>434943.46150</ExtentYMin>
+      <ExtentYMax>476930.88270</ExtentYMax>
+    </DatasetSpecificInfo>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

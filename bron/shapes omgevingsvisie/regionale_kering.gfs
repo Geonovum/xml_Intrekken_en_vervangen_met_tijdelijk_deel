@@ -1,0 +1,16 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>regionale_kering</Name>
+    <ElementPath>regionale_kering</ElementPath>
+    <!--MULTIPOLYGON-->
+    <GeometryType>6</GeometryType>
+    <SRSName>EPSG:28992</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>45</FeatureCount>
+      <ExtentXMin>114258.84091</ExtentXMin>
+      <ExtentXMax>167032.06122</ExtentXMax>
+      <ExtentYMin>430082.09408</ExtentYMin>
+      <ExtentYMax>479588.28895</ExtentYMax>
+    </DatasetSpecificInfo>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

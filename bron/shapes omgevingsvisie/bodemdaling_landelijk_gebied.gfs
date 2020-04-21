@@ -1,0 +1,16 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>bodemdaling_landelijk_gebied</Name>
+    <ElementPath>bodemdaling_landelijk_gebied</ElementPath>
+    <!--MULTIPOLYGON-->
+    <GeometryType>6</GeometryType>
+    <SRSName>EPSG:28992</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>1</FeatureCount>
+      <ExtentXMin>114241.19198</ExtentXMin>
+      <ExtentXMax>171417.38820</ExtentXMax>
+      <ExtentYMin>431357.86465</ExtentYMin>
+      <ExtentYMax>479552.85510</ExtentYMax>
+    </DatasetSpecificInfo>
+  </GMLFeatureClass>
+</GMLFeatureClassList>
