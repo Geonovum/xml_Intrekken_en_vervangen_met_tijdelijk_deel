@@ -1,0 +1,49 @@
+1.0.4 gebruiken, niet 1.0.4-rc
+
+(minimaal) Voorbereidingsbesluit (zonder informatoeobjecten):
+Geen lege informatieobjectRefs of BeoogdInformatieobject opnemen al er niet zijn.
+heeftCiteertitelInformatie opnemen.
+ambtgebied identificatie moet anders zijn dan die vd onderliggende regel (bv uit het omgevingsplan)
+
+
+Intrekking:
+
+Met RegelingVersieInformatie (over het RegelingTijdelijkdeel):
+(moet <isTijdelijkDeelVan> bevatten volgens  LVBB validatie.
+
+2021-06-30T12:49:10.680632+02:00 (id-publicatie-1255-20210628052458VALCODEc79af799)
+Uitkomst
+    - succes
+2021-06-30T12:49:14.954446+02:00 (id-publicatie-1255-20210628052458VALCODEc79af799)
+Uitkomst
+    - succes
+code
+    - LVBB4044
+ernst
+    - fout
+soort
+    - inhoudelijk
+categorie
+    - /akn/nl/bill/gm0202/2020/VBGI0001-20210628052456/nld@2020-07-21
+beschrijving
+    - [AanleveringBesluit - Controles AKN aanvullend soort werk - RegelingVersie] Relatie tussen waarde van element soortWork /join/id/stop/work_021 en element is onjuist 
+
+    
+Zonder RegelingVersieInformatie:
+2021-06-29T16:27:48.46513+02:00 (id-publicatie-1255-20210628052458VALCODEb67a3650)
+Uitkomst
+    - succes
+2021-06-29T16:27:51.236409+02:00 (id-publicatie-1255-20210628052458VALCODEb67a3650)
+Uitkomst
+    - succes
+code
+    - LVBB4011
+ernst
+    - fout
+soort
+    - inhoudelijk
+categorie
+    - /akn/nl/bill/gm0202/2020/VBGI0001-20210628052456/nld@2020-07-21
+beschrijving
+    - besluit voor oin : 00000003560458830000 en id-levering : id-publicatie-1255-20210628052458VALCODEb67a3650 bevat geen mutaties; dit scenario wordt door de LVBB niet ondersteund 
+
